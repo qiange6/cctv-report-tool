@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 账号与配置（含加密密码，绝不提交）
+cctv_config.json
+config.py
+*.cfg.local
+.env
+
+# 运行产物
+输出/
+output/
+dist/
+build/
+_build/work_*/
+_build/tmp/
+*.log
+error.log
+
+# 打包依赖与便携包（用 GitHub Release 发布）
+_vendor/
+exe/
+_package/
+*.zip
+
+# 业务数据
+*.xlsx
+*.xls
+*.pdf
+*.avi
+*.mp4
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
