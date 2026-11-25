@@ -91,7 +91,7 @@ flowchart LR
 要求：Windows + Python 3.10+。
 
 ```bash
-git clone <本仓库地址>
+git clone https://github.com/qiange6/cctv-report-tool.git
 cd cctv-report-tool
 python -m pip install -r requirements.txt
 python cctv_gui.py
