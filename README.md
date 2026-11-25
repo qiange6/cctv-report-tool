@@ -105,7 +105,7 @@ python cctv.py login --user 你的账号 --pwd 你的密码 --test
 
 ### 方式二：直接使用 exe
 
-1. 从本仓库 **Releases** 下载便携包（如 `CCTV报告工具_便携版_*.zip`）；
+1. 从本仓库 **[Releases](https://github.com/qiange6/cctv-report-tool/releases/tag/v1.0.0)** 下载便携包 `CCTV-report-tool-portable-v1.0.0.zip`；
 2. 解压到桌面或 D 盘等可写目录；
 3. 双击 `CCTV报告工具\CCTV报告工具.exe`。
 

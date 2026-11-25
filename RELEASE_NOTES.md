@@ -26,7 +26,7 @@ Windows 源码运行要求 Python 3.10+；exe 版见 Releases。
 
 ## 资产
 
-- `CCTV报告工具_便携版_20261125.zip`：GUI + 命令行 + 各自 `_internal` 依赖 + 使用说明，解压即用。
+- `CCTV-report-tool-portable-v1.0.0.zip`：GUI + 命令行 + 各自 `_internal` 依赖 + 使用说明，解压即用。
 
 ## 文档
 
